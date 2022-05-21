@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Welcom to Desi Quant's Website
+title: Desi Quant
 email: desiquant007@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I will be writing about my analysis and observations from the stock market.
