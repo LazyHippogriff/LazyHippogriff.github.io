@@ -1,2 +1,2 @@
-# LazyHippogriff.github.io
+# Desi Quant
 Hello and welcome to desiquant.in. I will be posting my analysis and observations about the stock market.
