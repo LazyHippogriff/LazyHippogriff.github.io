@@ -21,12 +21,15 @@
 title: Desi Quant
 email: desiquant007@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I will be writing about my analysis and observations from the stock market.
+  I try to find patterns in the market.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://lazyhippogriff.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DesiQuant
 github_username:  LazyHippogriff
+
+
+
 
 # Build settings
 # removed minima theme as it's now a regular theme
