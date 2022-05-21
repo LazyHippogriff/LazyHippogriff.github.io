@@ -278,7 +278,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 219)
   jekyll-feed (~> 0.15)
-  minima (~> 2.5)
   webrick (~> 1.7)
 
 BUNDLED WITH

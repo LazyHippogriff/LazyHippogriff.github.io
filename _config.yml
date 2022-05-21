@@ -29,7 +29,8 @@ twitter_username: DesiQuant
 github_username:  LazyHippogriff
 
 # Build settings
-theme: minima
+# removed minima theme as it's now a regular theme
+# theme: minima
 plugins:
   - jekyll-feed
 
