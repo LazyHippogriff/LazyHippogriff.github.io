@@ -49,7 +49,7 @@ Creating strategies basically involves:
 
 <li><strong>Execution</strong></li>
 This basically involves executing the plan in an error free manner. This might look like an insignificant aspect on paper but in real world it's not. 
-Lots of things are covered in this e.g. slippage due to liquidity issues, manual errors, errors due to external factors etc.
+Lots of things are covered in this e.g. slippages due to liquidity issues, manual errors, errors due to external factors etc.
 This aspect if ignored can prove costly. Also this aspect is something which is not always in our control. 
 
 </ol>
