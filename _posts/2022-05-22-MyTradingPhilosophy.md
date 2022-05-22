@@ -8,7 +8,7 @@ categories: Info
 
 All of us want to make money. The more the better. In stock market, billions are deployed every day by millions of people.
 
-<p>Theoretically, you can earn billions on any given day. All you have to do is to take the right trade at precisely the right time with the maximum amount of leverage that you can get.</p>
+<p>Theoretically, you can earn billions on any given day. All you have to do is to take the right trades, always at precisely the right time and each time with the maximum amount of leverage that you can get.</p>
 
 But of course, trading with leverage and trying to time the market is very risky. It's like playing Russian Roulette. It's not something you can continue doing if you want to survive for long.
 
