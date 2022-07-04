@@ -12,6 +12,7 @@ Red candle: close < open
 
 Basic aim is to see how many consecutive candles of 1 type have occured historically.
 <ol>
+
 <li><strong>Hourly</strong></li>
 <ul>
 <li>Green Candles</li>
@@ -19,6 +20,8 @@ Basic aim is to see how many consecutive candles of 1 type have occured historic
 
 <li>Red Candles</li>
 ![hourly image](/assets/consecutiveCandles/niftyHourlyRed.jpg)
+</ul>
+
 
 <li><strong>Daily</strong></li>
 <ul>
@@ -27,6 +30,8 @@ Basic aim is to see how many consecutive candles of 1 type have occured historic
 
 <li>Red Candles</li>
 ![daily image](/assets/consecutiveCandles/niftyDailyRed.jpg)
+</ul>
+
 
 <li><strong>Weekly</strong></li>
 <ul>
@@ -34,6 +39,8 @@ Basic aim is to see how many consecutive candles of 1 type have occured historic
 ![weekly image](/assets/consecutiveCandles/niftyWeeklyGreen.jpg)
 <li>Red Candles</li>
 ![weekly image](/assets/consecutiveCandles/niftyWeeklyRed.jpg)
+</ul>
+
 
 <li><strong>Monthly</strong></li>
 <ul>
@@ -41,5 +48,6 @@ Basic aim is to see how many consecutive candles of 1 type have occured historic
 ![monthly image](/assets/consecutiveCandles/niftyMonthlyGreen.jpg)
 <li>Red Candles</li>
 ![monthly image](/assets/consecutiveCandles/niftyMonthlyRed.jpg)
+</ul>
 
 </ol>
