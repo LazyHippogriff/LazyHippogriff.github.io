@@ -11,29 +11,35 @@ Green candle: close >= open
 Red candle: close < open
 
 Basic aim is to see how many consecutive candles of 1 type have occured historically.
-
-* Hourly *
-** Green
+<ol>
+<li><strong>Hourly</strong></li>
+<ul>
+<li>Green Candles</li>
 ![hourlyGreen image](/assets/consecutiveCandles/niftyHourlyGreen.jpg)
 
-** Red
+<li>Red Candles</li>
 ![hourly image](/assets/consecutiveCandles/niftyHourlyRed.jpg)
 
-* Daily *
-** Green
+<li><strong>Daily</strong></li>
+<ul>
+<li>Green Candles</li>
 ![daily image](/assets/consecutiveCandles/niftyDailyGreen.jpg)
 
-** Red
+<li>Red Candles</li>
 ![daily image](/assets/consecutiveCandles/niftyDailyRed.jpg)
 
-* Weekly *
-** Green
+<li><strong>Weekly</strong></li>
+<ul>
+<li>Green Candles</li>
 ![weekly image](/assets/consecutiveCandles/niftyWeeklyGreen.jpg)
-** Red
+<li>Red Candles</li>
 ![weekly image](/assets/consecutiveCandles/niftyWeeklyRed.jpg)
 
-* Monthly *
-** Green
+<li><strong>Monthly</strong></li>
+<ul>
+<li>Green Candles</li>
 ![monthly image](/assets/consecutiveCandles/niftyMonthlyGreen.jpg)
-** Red
+<li>Red Candles</li>
 ![monthly image](/assets/consecutiveCandles/niftyMonthlyRed.jpg)
+
+</ol>
