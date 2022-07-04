@@ -15,41 +15,55 @@ Basic aim is to see how many consecutive candles of 1 type have occured historic
 <ol>
 
 <li><strong>Hourly</strong></li>
-<ul  markdown="1">
-<li>Green Candles</li>
+<ul>
+<li markdown="1">Green Candles
 ![hourlyGreen image](/assets/consecutiveCandles/niftyHourlyGreen.jpg)
+</li>
 
-<li>Red Candles</li>
+<li markdown="1">
+Red Candles
 ![hourly image](/assets/consecutiveCandles/niftyHourlyRed.jpg)
+</li>
 </ul>
 
 
 <li><strong>Daily</strong></li>
-<ul  markdown="1">
-<li>Green Candles</li>
+<ul>
+<li markdown="1">
+Green Candles
 ![daily image](/assets/consecutiveCandles/niftyDailyGreen.jpg)
-
-<li>Red Candles</li>
+</li>
+<li markdown="1">
+Red Candles
 ![daily image](/assets/consecutiveCandles/niftyDailyRed.jpg)
+</li>
 </ul>
 
 
 <li><strong>Weekly</strong></li>
 <ul>
-<li markdown="1">Green Candles
-![weekly image](/assets/consecutiveCandles/niftyWeeklyGreen.jpg)</li>
-<li markdown="1">Red Candles
-![weekly image](/assets/consecutiveCandles/niftyWeeklyRed.jpg)</li>
+<li markdown="1">
+Green Candles
+![weekly image](/assets/consecutiveCandles/niftyWeeklyGreen.jpg)
+</li>
+<li markdown="1">
+Red Candles
+![weekly image](/assets/consecutiveCandles/niftyWeeklyRed.jpg)
+</li>
 
 </ul>
 
 
 <li><strong>Monthly</strong></li>
-<ul  markdown="1">
-<li>Green Candles</li>
+<ul>
+<li markdown="1">
+Green Candles
 ![monthly image](/assets/consecutiveCandles/niftyMonthlyGreen.jpg)
-<li>Red Candles</li>
+</li>
+
+<li markdown="1">Red Candles
 ![monthly image](/assets/consecutiveCandles/niftyMonthlyRed.jpg)
+</li>
 </ul>
 
 </ol>
