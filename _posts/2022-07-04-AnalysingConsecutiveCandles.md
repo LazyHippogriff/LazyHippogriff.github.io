@@ -6,9 +6,10 @@ categories: dataAnalysis
 ---
 
 In this post, I will be presenting my findings about the occurence of consecutive streaks of green/red candles in Nifty's historical data on multiple timeframes(hourly/daily/weekly/monthly).
-
-Green candle: close >= open
-Red candle: close < open
+<p>
+<strong>Green candle: close >= open</strong>
+<strong>Red candle: close < open</strong>
+</p>
 
 Basic aim is to see how many consecutive candles of 1 type have occured historically.
 <ol>
