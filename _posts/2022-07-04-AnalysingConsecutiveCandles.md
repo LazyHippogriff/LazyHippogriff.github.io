@@ -34,11 +34,12 @@ Basic aim is to see how many consecutive candles of 1 type have occured historic
 
 
 <li><strong>Weekly</strong></li>
-<ul  markdown="1">
-<li>Green Candles</li>
-![weekly image](/assets/consecutiveCandles/niftyWeeklyGreen.jpg)
-<li>Red Candles</li>
-![weekly image](/assets/consecutiveCandles/niftyWeeklyRed.jpg)
+<ul>
+<li markdown="1">Green Candles
+![weekly image](/assets/consecutiveCandles/niftyWeeklyGreen.jpg)</li>
+<li markdown="1">Red Candles
+![weekly image](/assets/consecutiveCandles/niftyWeeklyRed.jpg)</li>
+
 </ul>
 
 
